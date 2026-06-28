@@ -227,12 +227,11 @@ Full list in [`requirements.txt`](requirements.txt).
 
 ## 👤 Author
 
-**Your Name**
-Senior Data Analyst / Data Scientist
+**Sujal Giri**
 
-- 🌐 GitHub: [@your-username](https://github.com/your-username)
-- 💼 LinkedIn: [your-name](https://linkedin.com/in/your-name)
-- 📧 Email: your.email@example.com
+- GitHub: https://github.com/sujalgiriiitp-source
+- LinkedIn: https://www.linkedin.com/in/sujal-giri-9501253a0
+- Email: sujalgiriiitp@gmail.com
 
 ---
 
